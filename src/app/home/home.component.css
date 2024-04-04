@@ -1,0 +1,11 @@
+a {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+.category {
+  display: flex;
+  justify-content: space-evenly;
+}
+.card {
+  transition: opacity 300ms ease-in-out;
+}
